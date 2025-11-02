@@ -12,7 +12,7 @@ function exibeTexto (tag, texto){
 
 function exibirMensagemInicial(){
     exibeTexto('h1', 'Jogo do número secreto');
-    exibeTexto('p', 'Escolha um número entre 1 e 10');
+    exibeTexto('p', 'Escolha um número entre 1 e 100');
 }
 
 function gerarNumeroAleatorio(){
